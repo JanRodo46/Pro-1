@@ -1,0 +1,1 @@
+Klikasz i robisz
