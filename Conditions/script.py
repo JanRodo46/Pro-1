@@ -43,3 +43,4 @@ if first_array and first_array[0] == 1:
     print("5")
 
 print("test")
+print("test 1")
