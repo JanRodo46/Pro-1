@@ -41,3 +41,5 @@ if len(first_array) + len(second_array) == 5:
 
 if first_array and first_array[0] == 1:
     print("5")
+
+print("test")
