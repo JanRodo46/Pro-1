@@ -1,0 +1,25 @@
+astring = "Hello world!"
+print("single quotes are ' '")
+
+print(len(astring))
+
+astring = "Hello world!"
+print(astring.count("l"))
+
+astring = "Hello world!"
+print(astring[3:])
+
+astring = "Hello world!"
+print(astring[::-1])
+
+astring = "Hello world!"
+print(astring.upper())
+print(astring.lower())
+
+astring = "Hello world!"
+print(astring.startswith("Hello"))
+print(astring.endswith("world!"))
+
+astring = "Hello world!"
+afewwords = astring.split(" ")
+print(afewwords)
